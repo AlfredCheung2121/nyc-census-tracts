@@ -1,0 +1,7 @@
+---
+title: "Censes Tracts"
+---
+
+New York City
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
